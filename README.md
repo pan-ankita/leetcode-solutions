@@ -1,4 +1,4 @@
-# DSA_leetcode-solution
+# leetcode-solutions
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
